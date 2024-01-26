@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# credentials
+seai-azure-cv-ocr-api.json
+credentials.json
+
 # C extensions
 *.so
 
